@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gif_dimen">200dp</dimen>
+    <dimen name="margin_top">32dp</dimen>
+    <dimen name="textview_top">33dp</dimen>
+    <dimen name="pad">8dp</dimen>
+    <dimen name="text_size">24sp</dimen>
+    <dimen name="button_width">102dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_margin">16dp</dimen>
+    <dimen name="startfrag_imgview_width">100dp</dimen>
+    <dimen name="startfrag_imgview_ht">300dp</dimen>
+    <dimen name="margin_top_start">60dp</dimen>
+</resources>

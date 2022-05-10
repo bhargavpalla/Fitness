@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exercise_text_view">%d times</string>
+    <string name="button1_text">NEXT</string>
+    <string name="button2_text">EXIT</string>
+    <string name="title_android_fitness_exercise">Exercise Number: (%d/%d)</string>
+    <string name="go_button">Go</string>
+    <string name="try_again_string">try again</string>
+    <string name="next_workout_string">next workout</string>
+    <string name="try_again_description">try again</string>
+    <string name="congrats_image_view">congrats</string>
+    <string name="about_app_description">about the fitness app</string>
+    <string name="about_string">About</string>
+    <string name="about_fitness_app">in this app we will learn about navigation.\n\nnavigation will give us a greate
+        view of our app
+    </string>
+
+</resources>
