@@ -14,6 +14,9 @@
             app:popUpTo="@+id/exerciseFragment" app:popUpToInclusive="true"/>
         <action android:id="@+id/action_exerciseFragment_to_tryAgainFragment" app:destination="@id/tryAgainFragment"
             app:popUpTo="@+id/exerciseFragment" app:popUpToInclusive="true"/>
+        <action
+            android:id="@+id/action_exerciseFragment_to_tryAgainFragment2"
+            app:destination="@id/tryAgainFragment" />
     </fragment>
     <fragment android:id="@+id/wellDoneFragment" android:name="com.example.fragmentapp.WellDone"
         android:label="fragment_well_done" tools:layout="@layout/fragment_well_done">
